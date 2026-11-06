@@ -1,0 +1,6 @@
+{
+  "name": "Padres Basilianos",
+  "description": "Aplicación oficial de los Padres Basilianos (Congregación de San Basilio - C.S.B.). Incluye Directorio Oficial 2025-2026 de hermanos con recordatorio dinámico de cumpleaños, envío de felicitaciones y sección En Memoria de hermanos difuntos con veladora virtual; Oración Diaria y Liturgia; Red Fraterna de Comunidad; Centro Integral de Recursos Basilianos (10 Fundadores 1822, Forma de Vida, Políticas 2026, Libro 1922); y Sistema de Temas Inmersivos (Escudo Oficial, Harry Potter, Marvel, Disney, Anime) con tipografías y formas adaptativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
